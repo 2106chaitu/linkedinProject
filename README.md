@@ -1,13 +1,42 @@
-🚀 Wrapping Up Exciting Internship Projects at Prodigy Infotech!
+🖥️ Prodigy Infotech Internship – Software Development Projects
+This repository showcases the projects I completed during my Software Development Internship at Prodigy Infotech. These projects helped me strengthen my coding skills, improve logical thinking, and gain hands-on experience with real-world problem-solving.
 
-I’m thrilled to share that I have successfully completed two exciting software development projects during my internship at Prodigy Infotech:
-1️⃣ Sudoku Solver Project – Built a program that automatically solves any 9×9 Sudoku puzzle using the backtracking algorithm, teaching me the power of recursion, constraints handling, and algorithmic problem-solving.
-2️⃣ Random Number Guessing Game Project – Developed an interactive game where users guess a randomly generated number with feedback on each attempt, enhancing my logic-building, input handling, and user experience design skills.
-What I Gained from These Projects:
-Strengthened my understanding of Python and algorithmic thinking.
-Learned how to break down complex problems into step-by-step solutions.
-Gained practical experience in writing clean, optimized, and reusable code.
-Built a problem-solving mindset that is essential in real-world software development.
-💡 Takeaway:
-These projects taught me that even small ideas can make you dive deep into logic, structure, and optimization – the core pillars of software engineering. I’m excited to take these learnings forward and apply them to bigger challenges ahead!
+🚀 Projects Completed
+1️⃣ Sudoku Solver
+I developed a Sudoku Solver that can automatically solve any 9×9 Sudoku puzzle using the backtracking algorithm. The program explores possible solutions, checks constraints for rows, columns, and 3×3 grids, and fills the missing numbers accurately.
 
+Key Learnings:
+
+Implementation of recursion and backtracking.
+
+Efficient constraint checking and validation logic.
+
+Debugging and optimizing algorithms for better performance.
+
+2️⃣ Random Number Guessing Game
+I built an interactive Random Number Guessing Game where the user guesses a randomly generated number. The program provides feedback (too high/too low) and continues until the user guesses the correct number. It also tracks the number of attempts.
+
+Key Learnings:
+
+User input handling and loop control.
+
+Building logic for interactive console applications.
+
+Working with random number generation in Python.
+
+📚 What I Learned
+Improved Python programming and algorithmic thinking.
+
+Gained experience in breaking problems into smaller, manageable steps.
+
+Learned to write clean, structured, and efficient code.
+
+Strengthened debugging and logical reasoning skills.
+
+🛠️ Tech Stack
+Language: Python 3.x
+
+Tools: Any Python-supported IDE (VS Code / PyCharm)
+
+🌟 Internship Experience
+Working on these projects as part of my internship at Prodigy Infotech gave me an opportunity to apply core programming concepts to real problems, boosting my confidence and skills in software development.
