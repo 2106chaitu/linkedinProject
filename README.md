@@ -24,6 +24,62 @@ Building logic for interactive console applications.
 
 Working with random number generation in Python.
 
+3️⃣🌡 Temperature Converter
+
+A simple program that converts temperatures between *Celsius, Fahrenheit, and Kelvin* scales.  
+The user provides a temperature value and its unit, and the program returns the converted values in the other two units.
+
+---
+
+## *Features*
+- Converts temperature from:
+  - Celsius → Fahrenheit & Kelvin
+  - Fahrenheit → Celsius & Kelvin
+  - Kelvin → Celsius & Fahrenheit
+- Interactive user input.
+- Accurate and fast conversions.
+
+---
+
+## *Formulas Used*
+- *Celsius to Fahrenheit:* (C × 9/5) + 32
+- *Celsius to Kelvin:* C + 273.15
+- *Fahrenheit to Celsius:* (F - 32) × 5/9
+- *Fahrenheit to Kelvin:* (F - 32) × 5/9 + 273.15
+- *Kelvin to Celsius:* K - 273.15
+- *Kelvin to Fahrenheit:* (K - 273.15) × 9/5 + 32
+
+4️⃣📇 Contact Management System
+
+A Python program that allows users to *store, manage, and edit contact information*.  
+It supports adding new contacts, viewing existing contacts, editing or deleting contacts, and saving all data in a file for *persistent storage*.
+
+---
+
+## *Features*
+- Add new contacts with *Name, Phone Number, and Email Address*.
+- View the complete contact list.
+- Edit existing contacts.
+- Delete contacts when no longer needed.
+- Persistent storage: Contacts are saved in a file (JSON/CSV).
+
+5️⃣ 📚 Python Web Scraper – Books to Scrape
+
+A Python web scraper for **[Books to Scrape](https://books.toscrape.com/)** that extracts book details from all 50 pages and saves them into a `books.csv` file.
+
+---
+
+## 🚀 Features
+- Scrapes **all book pages (50 total)**.
+- Extracts:
+  - **Title**
+  - **Price**
+  - **Rating (text & numeric form)**
+  - **Product URL**
+- Exports results to a CSV file (`books.csv`).
+- Includes polite scraping with request delays.
+
+
 📚 What I Learned
 Improved Python programming and algorithmic thinking.
 
